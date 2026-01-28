@@ -1,4 +1,3 @@
-touch sample_sequences.py
 from dna_analyzer import (
     sequence_length,
     gc_content,
