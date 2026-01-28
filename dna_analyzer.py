@@ -1,4 +1,3 @@
-touch dna_analyzer.py
 def sequence_length(dna):
     """
     Returns the length of a DNA sequence.
